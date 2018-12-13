@@ -21,15 +21,14 @@
 
 
 
+
+
+
+
+
 第零步：打开Shadowrocket，点右上角的加号
 
-第一步：类型选择 HTTP
-
-服务器：jpios.net
-
-端口写 25
-
-再输入你的用户名和密码
+第一步：扫描客服给您发的【专属二维码】
 
 第二步：点【配置】，添加http://jproxy.cn/shadowrocket.conf
 
