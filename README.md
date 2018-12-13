@@ -26,11 +26,11 @@
 
 
 
-第零步：打开Shadowrocket，点右上角的加号
+##第零步：打开Shadowrocket，点右上角的加号
 
-第一步：扫描客服给您发的【专属二维码】
+##第一步：扫描客服给您发的【专属二维码】
 
-第二步：点【配置】，添加http://jproxy.cn/shadowrocket.conf
+##第二步：点【配置】，添加http://jproxy.cn/shadowrocket.conf
 
 再点下面的 http://jproxy.cn/shadowrocket.conf 选择 使用配置
 
@@ -43,7 +43,7 @@
 2、只支持两台iOS设备同时使用，违规删号。
 
 
-### 教程
+### 其他教程
 
 ## [Windows端](https://j-proxy.github.io/windows)
 ## [Mac端](https://j-proxy.github.io/mac)
