@@ -20,4 +20,33 @@
 <video class="video" controls="controls" playsinline="" webkit-playsinline="" src="https://dn-shimo-attachment.qbox.me/KmZQ5tk32XEHowdp/Shadowrocket-phone.mp4" width="100%"></video>
 
 
-2017年9月8日09:56:20
+
+第零步：打开Shadowrocket，点右上角的加号
+
+第一步：类型选择 HTTP
+
+服务器：jpios.net
+
+端口写 25
+
+再输入你的用户名和密码
+
+第二步：点【配置】，添加http://jproxy.cn/shadowrocket.conf
+
+再点下面的 http://jproxy.cn/shadowrocket.conf 选择 使用配置
+
+第三步： 返回主页面，点connect 成功！
+
+（第一次使用shadowrocket的同学，如果提示添加VPN，输入指纹通过即可）
+
+注意：
+1、Shadowrocket 启动后，可以24小时开着vpn，不会影响你国内网站和app
+2、只支持两台iOS设备同时使用，违规删号。
+
+
+### 教程
+
+## [Windows端](https://j-proxy.github.io/windows)
+## [Mac端](https://j-proxy.github.io/mac)
+## [iOS端](https://j-proxy.github.io/ios)
+## [Android端](https://j-proxy.github.io/android)
